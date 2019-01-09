@@ -1,9 +1,9 @@
 package main
 
 import (
+	"github.com/SchulteMK/go-template-test/server"
 	"log"
 	"net/http"
-	"temlatetest/server"
 )
 
 func main() {
